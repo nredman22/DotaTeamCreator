@@ -1,0 +1,4 @@
+.playerlist {
+    display: flex;
+    flex-direction: column;
+}
