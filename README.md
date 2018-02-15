@@ -1,4 +1,4 @@
-This app takes players and their MMR from a google sheet and creates balanced teams from them based on their mmr. A working version can be seen at nredman22.github.io/DotaTeamCreator/.
+This app takes players and their MMR from a google sheet and creates balanced teams from them based on their mmr. A working version can be seen at nredman22.github.io/DotaTeamCreator/
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
